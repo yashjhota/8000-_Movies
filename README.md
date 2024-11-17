@@ -1,4 +1,4 @@
-# Movie Recommendation System -(8000+)🎬
+# Movie Recommendation System🎬
 
 Welcome to the **Movie Recommendation System**! 🎥 This web application recommends movies based on a given movie and allows users to provide feedback on the recommendations and the overall user experience.
 
