@@ -11,10 +11,7 @@ The system uses data from over 8000 movies, offering personalized recommendation
 - **User Feedback**: Users can submit their feedback on the recommendations and UI, which is saved in MongoDB.
 - **Rating System**: Rate your experience from 1 (Poor) to 5 (Excellent).
 
-## Application Link 🌐
 
-You can explore the **Movie Recommendation System** live on the following link:  
-[**Movie Mood**](https://movie-mood-yash.streamlit.app/)
 
 ## Setup Instructions 🚀
 
